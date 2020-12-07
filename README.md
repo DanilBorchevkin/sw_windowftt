@@ -1,2 +1,2 @@
-# sw_windowftt
-Window FFT for specific data
+# sw_windowlobscargle
+Windowed Lomb Scargle Software
